@@ -6,20 +6,19 @@ drawing_area.setup(width=1440, height=780, startx=0, starty=0)
 flower = Turtle()
 flower.speed(20)
 colors = [
-    "#b88f96",
-    "#c29fa5",
-    "#ccaeb3",
-    "#d6bec2",
-    "#dac4c8",
-    "#decbce",
-    "#e2d1d4",
-    "#e6d8da",
-    "#eadee0",
-    "#eee5e6",
-    "#f2ebec",
-    "#f6f2f2",
-    "#faf8f8",
-    "#ffffff",
+    "#BF3EFF",
+    "#BF3EFF",
+    "#BF3EFF",
+    "#B23AEE",
+    "#B23AEE",
+    "#B23AEE",
+    "#9A32CD",
+    "#9A32CD",
+    "#9A32CD",
+    "#68228B",
+    "#68228B",
+    "#68228B",
+    "#68228B",
 ]
 
 for i in range(13):
